@@ -1,0 +1,18 @@
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines.
+Machine learning is a subset of AI where systems learn from data without being explicitly programmed.
+Deep learning uses neural networks with many layers to learn complex patterns from large datasets.
+Natural Language Processing (NLP) enables computers to understand, interpret, and generate human language.
+
+A vector database stores data as mathematical vectors called embeddings.
+Embeddings are numerical representations that capture the semantic meaning of text.
+Vector databases are used for similarity search - finding data points closest to a query.
+Endee is a high-performance vector database that can handle up to 1 billion vectors on a single node.
+
+RAG stands for Retrieval Augmented Generation.
+In a RAG system, relevant documents are first retrieved from a knowledge base using vector search.
+The retrieved documents are then passed to a language model as context to generate an accurate answer.
+RAG helps LLMs answer questions accurately using your own custom documents rather than just training data.
+
+Python is a popular programming language for AI and data science.
+Anaconda is a Python distribution that makes it easy to manage packages and environments.
+Sentence Transformers is a Python library that converts text into vector embeddings.
